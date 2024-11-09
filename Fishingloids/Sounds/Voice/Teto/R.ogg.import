@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/R.ogg-4389d46b7ec3268ee5c99e5e83907ead.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Voice/Teto/R.ogg"
+dest_files=[ "res://.import/R.ogg-4389d46b7ec3268ee5c99e5e83907ead.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
