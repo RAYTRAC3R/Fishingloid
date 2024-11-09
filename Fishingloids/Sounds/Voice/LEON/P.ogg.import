@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/P.ogg-90df82dc10a513fb85ca610496614662.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Voice/LEON/P.ogg"
+dest_files=[ "res://.import/P.ogg-90df82dc10a513fb85ca610496614662.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
