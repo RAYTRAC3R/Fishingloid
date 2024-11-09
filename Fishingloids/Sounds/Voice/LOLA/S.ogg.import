@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/S.ogg-5e400f7e2660cb9f18e06eb109d07adb.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Voice/LOLA/S.ogg"
+dest_files=[ "res://.import/S.ogg-5e400f7e2660cb9f18e06eb109d07adb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
