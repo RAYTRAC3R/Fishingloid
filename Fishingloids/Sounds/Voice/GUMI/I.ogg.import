@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/I.ogg-9c60c439f0144e942943e23ea58cd43a.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Voice/GUMI/I.ogg"
+dest_files=[ "res://.import/I.ogg-9c60c439f0144e942943e23ea58cd43a.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

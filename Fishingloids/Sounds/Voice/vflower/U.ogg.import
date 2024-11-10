@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/U.ogg-2c24bea5919f59d8737c03e3b44d01fc.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Voice/vflower/U.ogg"
+dest_files=[ "res://.import/U.ogg-2c24bea5919f59d8737c03e3b44d01fc.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

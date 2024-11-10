@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/K.ogg-9cdd6a8da5c6da1d583866cf922f68b5.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Voice/DAINA/K.ogg"
+dest_files=[ "res://.import/K.ogg-9cdd6a8da5c6da1d583866cf922f68b5.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
