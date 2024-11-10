@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/A.ogg-27c8e2d354e3c91fe946185744cbb05b.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Voice/Defoko/A.ogg"
+dest_files=[ "res://.import/A.ogg-27c8e2d354e3c91fe946185744cbb05b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
