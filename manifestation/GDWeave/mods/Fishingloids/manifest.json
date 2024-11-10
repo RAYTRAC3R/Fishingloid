@@ -1,0 +1,16 @@
+{
+  "Id": "Fishingloids",
+  "AssemblyPath": null,
+  "PackPath": "Fishingloids.pck",
+  "Dependencies": [
+    "RAYTRAC3R.ExtraVoiceMod",
+    "TackleBox"
+  ],
+  "Metadata": {
+    "Name": "Fishingloids",
+    "Author": "RAYTRAC3R and kitifulnines",
+    "Version": "1.0.0",
+    "Description": "Vocal Synth voicebank pack for Webfishing AlternateVoices!",
+    "Homepage": "https://github.com/RAYTRAC3R/ExtraVoices"
+  }
+}

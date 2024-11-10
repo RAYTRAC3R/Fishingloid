@@ -1,0 +1,26 @@
+id = "Fishingloids"
+name = "Fishingloids"
+description = "Vocal Synth voicebank pack for Webfishing AlternateVoices!"
+version = "1.0.0"
+homepage = "https://github.com/RAYTRAC3R/Fishingloid"
+author = "RAYTRAC3R and kitifulnines"
+
+icon = "icon.png"
+readme = "README.md"
+changelog = "CHANGELOG.md" # optional
+
+# both are optional here, pick what you want
+[project]
+godot = "C:/samidev/Fishingloid/Fishingloids/project.godot"
+
+[[dependencies]]
+thunderstore_version = "NotNet-GDWeave-2.0.13"
+
+# example dependency
+[[dependencies]]
+id = "RAYTRAC3R.ExtraVoiceMod"
+thunderstore_version = "RAYTRAC3R-AlternateVoices-1.0.4"
+
+[[dependencies]]
+id = "TackleBox"
+thunderstore_version = "PuppyGirl-TackleBox-0.4.1"

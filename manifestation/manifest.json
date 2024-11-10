@@ -1,0 +1,11 @@
+{
+  "name": "Fishingloids",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/RAYTRAC3R/ExtraVoices",
+  "description": "Vocal Synth voicebank pack for Webfishing AlternateVoices!",
+  "dependencies": [
+    "NotNet-GDWeave-2.0.13",
+    "RAYTRAC3R-AlternateVoices-1.0.4",
+    "PuppyGirl-TackleBox-0.4.1"
+  ]
+}
